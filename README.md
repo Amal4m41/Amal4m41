@@ -19,7 +19,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Flutter to build cross-platform applications**
+- 🌱 I’m currently learning **Web Dev using React**
 
 - 💬 Talk to me about Freelancing opportunities, Open Source projects and ideas. 
 
