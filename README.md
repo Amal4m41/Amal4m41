@@ -4,7 +4,7 @@
 
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi, I'm Amal Sunil</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Software Developer | Always Learning, Always Building</h3>
 
 
 
@@ -19,11 +19,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **Web Dev using React**
+- 🌱 I’m currently learning **Gen AI and latest AI solutions**
 
-- 💬 Talk to me about Freelancing opportunities, Open Source projects and ideas. 
+- 💬 Talk to me about Freelancing opportunities, Open Source projects and ideas.
 
-- 📫 How to reach me **amalsunil117gmail.com**
+- 📫 How to reach me **amalsunil.dev@gmail.com**
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h3> Programming Languages </h3>
